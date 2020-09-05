@@ -5,6 +5,7 @@ Will split repo into tw: client and server.  This repo srlearn will be the front
 
 Fron end: Typescript Vue 3
 Backend: NodeJS with Typescript GraphQL, PostGREs
+https://github.com/bryan-gilbert/srlserver
 
 
 

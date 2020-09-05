@@ -1,5 +1,5 @@
 # srlearn
-Space Repitition Learning
+Space Repetition Learning
 
 Will split repo into tw: client and server.  This repo srlearn will be the front end.  srlserver
 

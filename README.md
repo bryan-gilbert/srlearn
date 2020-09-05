@@ -1,12 +1,11 @@
 # srlearn
-Space Repetition Learning
+Space Repetition Learning - Front End
 
-Will split repo into tw: client and server.  This repo srlearn will be the front end.  srlserver
+Will split repo into tw: client and server.  This repo srlearn will be the front end.  
 
-Fron end: Typescript Vue 3
-Backend: NodeJS with Typescript GraphQL, PostGREs
-https://github.com/bryan-gilbert/srlserver
+Front end: Typescript Vue 3
 
+Back end see https://github.com/bryan-gilbert/srlserver
 
 
 Architecture discussions
@@ -16,3 +15,5 @@ Heruko auto deploy
 pipeline for testing
 git hub actions before deploy.
 wait fo CI/CDto pass then deploys
+
+DO gives full control and opportunity to learn

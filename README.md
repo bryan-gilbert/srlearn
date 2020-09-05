@@ -1,2 +1,2 @@
 # srlearn
-Space Repition Learning
+Space Repitition Learning
